@@ -1,6 +1,6 @@
 # Análise de Sistemas Lineares com Python
 
-![Sinal Cosseno]("./utils/img.png")
+![Sinal Cosseno](./utils/img.png)
 
 
 
