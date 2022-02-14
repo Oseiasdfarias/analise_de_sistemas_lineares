@@ -1,1 +1,6 @@
-# analise_de_sistemas_lineares
+# Análise de Sistemas Lineares com Python
+
+![Sinal Cosseno]("./utils/img.png")
+
+
+
